@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 
-from conference_badges import (
-    badge_maker, batch_badge_creator,
-    assign_rooms, printer
+from cartoon_collections import (
+    roll_call_dwarves, summon_captain_planet,
+    long_planeteer_calls, find_the_cheese
 )
 
 if __name__ == '__main__':
